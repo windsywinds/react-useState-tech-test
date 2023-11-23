@@ -16,10 +16,10 @@
     <a href="https://github.com/windsywinds/react-useState-tech-test/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://codesandbox.io/p/sandbox/react-usestate-tech-test-hnfymw">Try in Sandbox</a>
+    <a href="https://codesandbox.io/p/sandbox/react-usestate-tech-test-hnfymw?file=%2Fsrc%2FyourSolution.js%3A13%2C29">Try on CodeSandbox.io</a>
     ·
     <a href="https://github.com/windsywinds/react-useState-tech-test/issues">Report Bug</a>
-    ·
+    
     
 </div>
 
@@ -49,7 +49,7 @@
 
 This is a technical test question that may be featured in an interview for someone using react.js. The suggested time for an experienced developer is 20 minutes or less. Up to 40 minutes may be allowed for junior devs.
 Based on the youtube video by <a href="https://www.youtube.com/@lucas-barake" target="_blank">@lucas-barake</a>: <a href="https://www.youtube.com/watch?v=Sg3DuG3dz-0" target="_blank">https://www.youtube.com/watch?v=Sg3DuG3dz-0</a>
-Also available live on <a href="https://codesandbox.io/p/sandbox/react-usestate-tech-test-hnfymw">CodeSandbox</a>
+Also available live on <a href="https://codesandbox.io/p/sandbox/react-usestate-tech-test-hnfymw?file=%2Fsrc%2FyourSolution.js%3A13%2C29">CodeSandbox</a>
 
 ## Test Task
 
