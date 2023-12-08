@@ -8,10 +8,10 @@
 <br />
 <div align="center">
 
-<h3 align="center">Mission 2</h3>
+<h3 align="center">React Technical Challenge</h3>
 
   <p align="center">
-    A ReactJS technical test
+    A ReactJS technical challenge
     <br />
     <a href="https://github.com/windsywinds/react-useState-tech-test/"><strong>Explore the docs »</strong></a>
     <br />
@@ -48,8 +48,11 @@
 ## About The Project
 
 This is a technical test question that may be featured in an interview for someone using react.js. The suggested time for an experienced developer is 20 minutes or less. Up to 40 minutes may be allowed for junior devs.
-Based on the youtube video by <a href="https://www.youtube.com/@lucas-barake" target="_blank">@lucas-barake</a>: <a href="https://www.youtube.com/watch?v=Sg3DuG3dz-0" target="_blank">https://www.youtube.com/watch?v=Sg3DuG3dz-0</a>
-Also available live on <a href="https://codesandbox.io/p/sandbox/react-usestate-tech-test-hnfymw?file=%2Fsrc%2FyourSolution.js%3A13%2C29">CodeSandbox</a>
+Based on the youtube video by <a href="https://www.youtube.com/@lucas-barake" target="_blank">@lucas-barake</a>: <a href="https://www.youtube.com/watch?v=Sg3DuG3dz-0" target="_blank">https://www.youtube.com/watch?v=Sg3DuG3dz-0</a><br/>
+Also available live on <a href="https://codesandbox.io/p/sandbox/react-usestate-tech-test-hnfymw?file=%2Fsrc%2FyourSolution.js%3A13%2C29">CodeSandbox</a><br/>
+Built by <a href="https://github.com/windsywinds" target="_blank">@Windsywinds</a>
+
+![Product Name Screen Shot][product-screenshot]
 
 ## Test Task
 
@@ -89,7 +92,7 @@ npm run dev
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
+[product-screenshot]: https://github.com/windsywinds/react-useState-tech-test/blob/main/src/assets/screenshot.jpg
 [vite-url]: https://vitejs.dev/
 [contributors-shield]: https://img.shields.io/github/contributors/windsywinds/react-useState-tech-test.svg?style=for-the-badge
 [contributors-url]: https://github.com/windsywinds/react-useState-tech-test/graphs/contributors
@@ -103,7 +106,6 @@ npm run dev
 [license-url]: https://github.com/windsywinds/react-useState-tech-test/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/windsor-sam/
-[product-screenshot]: https://github.com/windsywinds/react-useState-tech-test/blob/main/src/assets/screenshot.jpg
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
